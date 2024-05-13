@@ -1,0 +1,31 @@
+sentID;story;type;check_eng;check;condition
+11;1;s;I left a spade in the shed, or more precisely three spades.;Я оставил в сарае лопату, а точнее три лопаты.;bad_sg
+22;2;s;I gave a friend notebooks, or more precisely one notebook.;Я подарила другу блокноты, а точнее один блокнот.;bad_pl
+33;3;s;I put mugs in my backpack, or more precisely two mugs.;Я положила в рюкзак кружки, а точнее две кружки.;good_pl
+41;4;s;We broke a vase, or more precisely five vases.;Мы разбили вазу, а точнее пять ваз.;bad_sg
+110;10;f;I smashed a few toys during the trip.;Я разбил несколько игрушек за время дороги, а точнее все.;impl_quant
+220;20;f;I packed a few pancakes from the rest.;Я упаковала несколько блинов из оставшихся, а точнее один блин.;log_quant
+330;30;f;They gave Maria Petrovna a bouquet or a set of fabric paints.;Они подарили Марии Петровне букет или набор красок по ткани, точно не знаю.;norm_dis
+410;40;f;Marina has a brother or sister, or more precisely, both brother and sister.;У Марины есть брат или сестра, а точнее, и брат, и сестра.;impl_dis
+520;50;f;I smoked e-cigarettes, or more precisely I never smoked anything.;Я курил электронные сигареты, а точнее никогда не курил что-либо.;log_past
+630;60;f;I worked in an advertising agency, and now I work as a hairdresser.;Я работала в рекламном агентстве, а теперь работаю парикмахером.;norm_past
+12;1;s;I left shovels in the shed, or more precisely one shovel.;Я оставил в сарае лопаты, а точнее одну лопату.;bad_pl
+23;2;s;I gave a friend notebooks, or more precisely four notebooks.;Я подарила другу блокноты, а точнее четыре блокнота.;good_pl
+31;3;s;I put a mug in my backpack, or more precisely two mugs.;Я положила в рюкзак кружку, а точнее две кружки.;bad_sg
+42;4;s;We broke vases, or more precisely one vase.;Мы разбили вазы, а точнее одну вазу.;bad_pl
+120;10;f;I broke several toys during the trip, or more precisely one.;Я разбил несколько игрушек за время дороги, а точнее одну.;log_quant
+230;20;f;I packed a few pancakes from the rest, or more precisely five pieces.;Я упаковала несколько блинов из оставшихся, а точнее пять штук.;norm_quant
+310;30;f;They presented Maria Petrovna with a bouquet or a set of fabric paints, or more precisely both.;Они подарили Марии Петровне букет или набор красок по ткани, а точнее и то, и другое.;impl_dis
+420;40;f;Marina has a brother or sister, or more precisely only a brother.;У Марины есть брат или сестра, а точнее только брат.;log_dis
+530;50;f;I used to smoke electronic cigarettes, but now I've already quit.;Я курил электронные сигареты, а сейчас уже бросил.;norm_past
+610;60;f;I worked at an advertising agency, or more precisely I still work there.;Я работала в рекламном агентстве, а точнее до сих пор там работаю.;impl_past
+13;1;s;I left shovels in the shed, or more precisely three shovels.;Я оставил в сарае лопаты, а точнее три лопаты.;good_pl
+21;2;s;I gave a friend a notebook, or more precisely four notebooks.;Я подарила другу блокнот, а точнее четыре блокнота.;bad_sg
+32;3;s;I put mugs in my backpack, or more precisely one mug.;Я положила в рюкзак кружки, а точнее одну кружку.;bad_pl
+43;4;s;We broke vases, or more precisely five vases.;Мы разбили вазы, а точнее пять ваз.;good_pl
+130;10;f;I smashed several toys during the trip, or more precisely four of them.;Я разбил несколько игрушек за время дороги, а точнее четыре штуки.;norm_quant
+210;20;f;I packed a few pancakes from the rest, or more precisely all of them.;Я упаковала несколько блинов из оставшихся, а точнее все.;impl_quant
+320;30;f;They presented Maria Petrovna with a bouquet or a set of fabric paints, or more precisely only a bouquet.;Они подарили Марии Петровне букет или набор красок по ткани, а точнее только букет.;log_dis
+430;40;f;Marina has a brother or sister, I remember that she did not live alone with her parents.;У Марины есть брат или сестра, я помню, что она жила с родителями не одна.;norm_dis
+510;50;f;I smoked electronic cigarettes, or more precisely I still smoke.;Я курил электронные сигареты, а точнее курю до сих пор.;impl_past
+620;60;f;I worked in an advertising agency, or more precisely I never worked there.;Я работала в рекламном агентстве, а точнее никогда там не работала.;log_past
